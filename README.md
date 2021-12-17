@@ -1,2 +1,2 @@
 # flipbook
-Project of a flipbook
+Project of a flipbook di Ugo Clemente
