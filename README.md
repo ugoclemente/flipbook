@@ -1,2 +1,2 @@
 # flipbook
-Project of a flipbook di Ugo Clemente
+Un flipbook di Ugo Clemente. Sfoglia, sfoglia.
